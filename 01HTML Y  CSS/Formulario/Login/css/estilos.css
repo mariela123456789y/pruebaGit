@@ -1,0 +1,38 @@
+*{
+margin: 0;
+padding: 0;
+}
+img{
+height: 70px;
+margin-left: 60px;
+}
+body{
+    background-color: blueviolet;
+}
+.contenedor{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center; 
+    padding-top: 200px;
+    padding-bottom: 100px; 
+    
+}
+.input-box1{
+    width: 100%;
+    height: 30px;
+    margin: 0;
+    padding: 5px;
+}
+.input-box2{
+    margin-top: 20px;
+}
+.input-box3{
+    margin-top: 20px;
+}
+input{
+    height: 30px;
+    background-color: slategray;
+    border:1px solid slategray;
+}

@@ -1,0 +1,39 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+
+}
+header{
+    border: 3px solid #f1948a;
+    height: 50px;
+}
+
+
+section{
+    border: 3px solid orange;
+
+}
+
+
+article{
+    border: 3px solid green;
+    height: 150px;
+    width: 341px;
+    display:inline-block;
+}
+
+
+aside{
+    border: 3px solid red;
+    height: 150px;
+    width: 141px;
+    display:inline-block;
+}
+
+
+
+footer{
+    border: 3px solid yellow;
+    height: 50px;
+}

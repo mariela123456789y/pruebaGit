@@ -1,0 +1,88 @@
+*{
+    margin: 0; 
+    padding: 0;
+}
+nav div{
+ width: 100%;
+ margin-left: auto;
+ margin-right: auto;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ background-color: lavender;
+ 
+} 
+nav div ul li{
+    list-style: none;
+    padding-right: 20px;
+    
+}
+nav div ul{
+    display: flex;
+}
+nav div ul li  a {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    
+}
+header div{
+ width: 100%;
+ margin-left: auto;
+ margin-right: auto;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+padding: 1rem;
+ background-color: white;
+}
+header div ul li{
+    list-style: none;   
+    padding-right: 20px;
+}
+header div ul{
+        display: flex;
+}
+header div ul li  a {
+    color: black;
+    text-decoration: none; 
+}
+footer div {
+    width: 100%;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ background-color: black;
+}
+footer div ul li{
+    list-style: none;
+    padding-right: 20px;
+    
+}
+footer div ul{
+    display: flex;
+    justify-content: center;
+    
+}
+footer div ul li  a {
+    color: white;
+    text-decoration: none;
+}
+article{
+ 
+}
+header{
+      height: 300px;
+        background: url(../img/portada.jpg);
+        text-align: left;
+        border-radius: 0.5em;
+        box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    
+    
+    
+}
+.img{
+    height: 5px;
+}

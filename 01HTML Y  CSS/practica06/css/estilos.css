@@ -1,0 +1,114 @@
+*{
+    margin:0;
+    padding: 0;
+  
+}
+nav{
+    background-color: darkblue;
+}
+.sub1{
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+
+nav div ul li{
+    margin: 15px 10px;
+    padding: 5px;
+}
+
+nav div ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    height: 80px;
+}
+.sub2{
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: white;
+}
+header div ul li{
+margin: 5px 10px;
+padding: 10px;
+}
+header div ul li a{
+text-decoration: none;
+color: black;
+}
+
+.sub3{
+width:90%;
+margin-left: auto;
+margin-right: auto;
+font-display: flex;
+}
+article{
+background-image:url(../img/fondo1.jfif);
+background-position: center;
+background-size: cover;
+}
+.cron{
+color: orangered;
+font-size: 50px;
+}
+span{
+font-size: 50px;
+font-weight: bolder;
+color:white;
+}
+
+article h1{
+font-size: 50px;
+font-weight: bolder;
+color:white;
+}
+button{
+background-color: orangered;
+border: orangered;
+color: white;
+height: 30px;
+padding: 0 20px;
+margin-right: 25px;
+}
+
+button:hover {
+    background-color: black;
+    color: orangered;
+}
+
+i {
+    color: orangered;
+}
+
+.clase4{
+    width: 90%;
+    margin-left: auto;
+    margin: auto;
+    padding-top: 300px;
+    padding-bottom:150px;
+}
+.clase4 button{
+    margin-top: 30px;
+}
+p{
+    color: white;
+    margin-top: 5px;
+}
+.clase3 li {
+    margin: 5px 10px;
+    padding: 5px;
+}

@@ -1,0 +1,57 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+header{
+    border: 3px solid #f1948a;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+}
+
+section{
+    border: 3px solid orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section article{
+    border: 3px solid green;
+    height: 150px;
+    width: 341px;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+     color: blue;
+     background-color: yellow;
+     font-size:22px;
+     font-weight: bold;
+}
+
+aside{
+    border: 3px solid red;
+    height: 150px;
+   width: 141px;
+   display: flex;
+   justify-content: center;
+    align-items: center;
+}
+ 
+article{
+    border: 3px solid rgb(225, 0, 255);
+    height: 150px;
+}
+
+footer{
+    border: 3px solid yellow;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+}
+
+
+
+
